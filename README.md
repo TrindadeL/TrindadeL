@@ -10,9 +10,6 @@ Here are  algumas informações sobre mim:
    - E-mail: trindadeprod@gmail.com
    - Contato: (71)98812.9478 (apenas WhatsApp)
    
-- ⚡ Fun fact: 
+- ⚡  Fatos sobre mim:
    - Gosto de estudar, viajar, nadar, ler e assistir filmes.
    
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
- </div>
