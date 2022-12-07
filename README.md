@@ -1,16 +1,18 @@
-### Hi there 👋
+-> Olá, eu sou o Lucas Trindade <-
 
-<!--
-**TrindadeL/TrindadeL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are  algumas informações sobre mim:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 I’m currently estudando Engenharia de software e uma pós graduação em Segurança da Informação, área que tenho afinidade e experiência por ser militar.
+
+- 📫 How to reach me:
+   - E-mail: trindadeprod@gmail.com
+   - Contato: (71)98812.9478 (apenas WhatsApp)
+   
+- ⚡ Fun fact: 
+   - Gosto de estudar, viajar, nadar, ler e assistir filmes.
+   
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+ </div>
