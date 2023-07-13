@@ -4,10 +4,10 @@
 Here are  algumas informações sobre mim:
 
 
-- 🌱 I’m currently estudando Engenharia de software e uma pós graduação em Segurança da Informação, área que tenho afinidade e experiência por ser militar.
+- 🌱 I’m currently formando em Análise e Desenvolvimento de Sistemas, pós graduado em Segurança da Informação e pós graduando em Defesa Cibernética.
 
 - 📫 How to reach me:
-   - E-mail: trindadeprod@gmail.com
+   - E-mail: lucastsegciber@gmail.com
    - Contato: (71)98812.9478 (apenas WhatsApp)
    
 - ⚡  Fatos sobre mim:
